@@ -17,7 +17,21 @@ export default function Drawer ({
   ...props
 }) {
   return (
-    <h1>Drawer</h1>
+    <Fragment>
+      <RcDrawer
+      open={open}
+      onClose={toggleHandler}
+      className={`drawer ${className || ''}`.trim()}
+      width={width}
+      placement={placement}
+      handler={false}
+      level={null}
+      duration={'0.4s'}
+      {...props}
+      >
+
+      </RcDrawer>
+    </Fragment>
   );
 };
 
