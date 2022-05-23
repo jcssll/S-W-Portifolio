@@ -9,7 +9,19 @@ import menuItems from './header.data';
 
 export default function Header({ className }) {
   return (
-      <h1>Header</h1>
+    //using componenst from theme UI
+    //HTML semantic Tag - SX = the specific files
+    //we can also pass class names
+      <header sx={styles.header} className={className} id="header">
+        <Container sx={styles.container}>
+          <Logo src={LogoDark} /> 
+          <Flex as="nav" sx={styles.nav}>
+             
+          </Flex>
+
+        </Container>
+
+      </header>
   );
 }
 
