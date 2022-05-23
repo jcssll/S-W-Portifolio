@@ -6,6 +6,7 @@ import { IoMdClose, IoMdMenu } from 'react-icons/io';
 import { Link } from 'react-scroll';
 import { FaFacebookF, FaTwitter, FaGithubAlt, FaDribbble } from 'react-icons/fa';
 import menuItems from './header.data';
+import DrawerWrapper from 'rc-drawer/lib/DrawerWrapper';
 
 const social = [
   {
@@ -28,7 +29,7 @@ const social = [
 
 export default function MobileDrawer() {
   return (
-   <h1>Mobile Drawer</h1>
+   <Drawer>Mobile Drawer</Drawer>
   );
 };
 
