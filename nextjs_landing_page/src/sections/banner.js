@@ -13,6 +13,13 @@ export default function Banner() {
           <Heading as="h1" variant="heroPrimary">
             Premium Quality Digital Products to Explore!
           </Heading>
+          <Text as="p" variant="heroSecondary">
+            Check Out our website to find great software products and deals! If you need a website or a web applcation Sites and Wonders is the place to go! 
+          </Text>
+          <Button variant="primary">Explore</Button>
+        </Box>
+        <Box sx={styles.banner.imageBox}>
+          <Image src={BannerImg} alt='banner'></Image>
         </Box>
       </Container>
     </section>
