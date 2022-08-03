@@ -15,42 +15,42 @@ const data = [
     id: 1,
     title: 'Modern look & trending design',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'Get working experience to work with this amazing team & in future want to work together for bright future projects.',
     avatar: Avatar1,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
+    name: 'Anna',
+   // designation: '@denny.hil',
     review: 4,
   },
   {
     id: 2,
     title: 'Design Quality & performance',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'Excellent implantation of my vision. I will always work with Sites & Wonders for all of my website visions!',
     avatar: Avatar2,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
+    name: 'Edward',
+   // designation: '@denny.hil',
     review: 5,
   },
   {
     id: 3,
     title: 'Layout and organized layers',
     description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+      'The team at S & W are very professional and organized. They communicate with clarity and deliver with excellence.',
     avatar: Avatar3,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
+    name: 'Denny',
+    //designation: '@denny.hil',
     review: 5,
   },
-  {
-    id: 4,
-    title: 'Modern look & trending design',
-    description:
-      'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
-    avatar: Avatar4,
-    name: 'Denny Hilguston',
-    designation: '@denny.hil',
-    review: 4,
-  },
+  // {
+  //   id: 4,
+  //   title: 'Modern look & trending design',
+  //   description:
+  //     'Get working experience to work with this amazing team & in future want to work together for bright future projects and also make deposit to freelancer.',
+  //   avatar: Avatar4,
+  //   name: 'Denny Hilguston',
+  //   designation: '@denny.hil',
+  //   review: 4,
+  // },
 ];
 
 const responsive = {

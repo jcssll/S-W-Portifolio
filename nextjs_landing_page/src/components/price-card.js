@@ -29,7 +29,7 @@ export default function PriceCard({
             className="package__price" sx={styles.price}
           >
             {priceWithUnit}
-            <span>/Monthly</span>
+            {/* <span>/Monthly</span> */}
           </Text>
 
           <Box sx={styles.buttonGroup}>

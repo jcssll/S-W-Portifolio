@@ -15,23 +15,23 @@ import Feature from './feature';
 
 const data = {
   subTitle: 'our services',
-  title: 'Business Goals Achieved with Design',
+  title: 'Web Development with a Lasting Impact',
   features: [
     {
       id: 1,
       imgSrc: Smart,
-      altText: 'Smart Features',
-      title: 'Smart Features',
+      altText: 'competitive rates',
+      title: 'Competitive Rates',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Since 2019, we’ve provided clients with exceptional services at competitive rates. Whether you’re looking for an expert to add a finishing touch to your website, or are looking to build one from scratch Sites & Wonders is the go-to source for all your web development needs. Contact us today and see what we can do for you.',
     },
     {
       id: 2,
       imgSrc: Secure,
-      altText: 'Secure Contents',
-      title: 'Secure Contents',
+      altText: 'More +',
+      title: 'We handle more than websites',
       text:
-        'Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.',
+        'Have an idea what you’re trying to bring to life online? We bring a wide array of professional services in web development, design, and project management to the work we’re involved with. We can manage it all while maintaining high standards of quality. Call today and let us transform your online presence into something exceptional..',
     },
   ],
 };

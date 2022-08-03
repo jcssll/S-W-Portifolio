@@ -11,12 +11,13 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            Premium Quality Digital Products to Explore!
+          Your Professional Source for Online Innovation!
           </Heading>
           <Text as="p" variant="heroSecondary">
-            Check Out our website to find great software products and deals! If you need a website or a web applcation Sites and Wonders is the place to go! 
+          We provide clients with a wide range of web development services that help bring their vision to life. Our work is done with the utmost attention to detail, and is focused on a beautiful, 
+fully functional, and user friendly final result! 
           </Text>
-          <Button variant="primary">Explore</Button>
+         {/* <Button variant="primary">Explore</Button> */}
         </Box>
         <Box sx={styles.banner.imageBox}>
           <Image src={BannerImg} alt='banner'></Image>

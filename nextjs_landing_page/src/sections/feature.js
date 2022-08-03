@@ -7,31 +7,31 @@ import Performance from 'assets/feature/performance.svg';
 import Partnership from 'assets/feature/partnership.svg';
 import Subscription from 'assets/feature/subscription.svg';
 import Support from 'assets/feature/support.svg';
-
+import Shopify from 'assets/feature/shopify.png';
 const data = [
   {
     id: 1,
     imgSrc: Performance,
-    altText: 'Fast Performance',
-    title: 'Fast Performance',
+    altText: 'Shopify Partner',
+    title: 'Shopify Partner',
     text:
-      'Let’s just get this out of the way - there will always be a kit version of Edu flow. Paid subscriptions allow us to continue helping learners around the world.',
+      'We are Shopify Partners that can build a fully custom website with tools to capture your audience attention.',
   },
   {
     id: 2,
     imgSrc: Partnership,
-    altText: 'Pro Subscription',
-    title: 'Pro Subscription',
+    altText: 'Wix Partners',
+    title: 'Wix Partners',
     text:
-      'We believe it’s important for everyone to have access to software – especially when it comes to digital learning be navigated by keyboard and screen readers.',
+      'Through our Wix Partnership we offer our service to create advanced design and layout capabilities that allow us to create complex website designs for any device. If you need to make constant edits and updates to your site without a hassle this is our option.',
   },
   {
     id: 3,
     imgSrc: Subscription,
-    altText: 'Partnership deal',
-    title: 'Partnership deal',
+    altText: 'React',
+    title: 'React',
     text:
-      'Let’s just get this out of the way - there will always be a kit version of Edu flow. Paid subscriptions allow us to continue helping learners around the world.',
+      'We build our applications in ReactJS for speed. If you want your visitors to avoid long load times to view your services or products then lets use the same technology that Netflix, Airbnb, and DropBox use for their advanced customer experience. ',
   },
   {
     id: 4,

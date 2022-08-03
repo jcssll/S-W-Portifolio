@@ -7,9 +7,9 @@ import shapePattern from 'assets/shape-pattern2.png';
 
 const data = {
   subTitle: 'Core features',
-  title: 'Smart Jackpots that you may love this anytime & anywhere',
+  title: 'Conceptualize. Visualize. Strategize. Develop.',
   description:
-    'Get your tests delivered at let home collect sample from the victory of the managements that supplies best design system guidelines ever.',
+    'High Quality Web Development at Affordable Rates. We love collaborating with our passionate clients and building them custom websites that are fully functional and rich with useful features.',
   btnName: 'Get Started',
   btnURL: '#',
 };

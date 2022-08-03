@@ -13,26 +13,26 @@ const data = [
   {
     id: 1,
     imgSrc: Performance,
-    altText: 'Fast Performance',
-    title: 'Fast Performance',
+    altText: 'Interactive UI/UX Design',
+    title: 'Interactive UI/UX Design',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'Give your visitors an ease of use on your website or application.',
   },
   {
     id: 2,
     imgSrc: Partnership,
-    altText: 'Partnership deal',
-    title: 'Partnership deal',
+    altText: 'Website Mockup Designs',
+    title: 'Website Mockup Designs',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'We provide clients with a wide range of web development services that help bring their vision to life.',
   },
   {
     id: 3,
     imgSrc: Subscription,
-    altText: 'Pro Subscription',
-    title: 'Pro Subscription',
+    altText: 'Subscription',
+    title: 'Maintenance Subscription',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      ' Our work is done with the utmost attention to detail, and is focused on a beautiful, fully functional, and user friendly final result... We even help to maintain it.',
   },
   {
     id: 4,
@@ -40,7 +40,7 @@ const data = [
     altText: 'Customer Support',
     title: 'Customer Support',
     text:
-      'Get your blood tests delivered at home collect a sample from the your blood tests.',
+      'We solve problems and develop opportunities that help place our clients ahead of their competition.',
   },
 ];
 
@@ -49,8 +49,8 @@ export default function KeyFeature() {
    <section sx={{variant: 'section.keyFeature'}} id="feature">
      <Container>
        <SectionHeader
-        slogan="Whats the function"
-        title="Meet the features of our products"
+        slogan="What we do!"
+        title="Here are some features we give to your site"
        />
 
        <Grid sx={styles.grid}>
